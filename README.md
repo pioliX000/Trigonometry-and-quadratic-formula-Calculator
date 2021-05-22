@@ -1,1 +1,1 @@
-"# Trigonometry-and-quadratic-formula-Calculator" 
+#Trigonometry-and-quadratic-formula-Calculator
